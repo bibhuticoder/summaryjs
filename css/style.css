@@ -1,0 +1,11 @@
+body {
+    padding: 0;
+    margin: 0;   
+    background-color: whitesmoke !important;   
+    text-align: center; 
+}
+
+.navbar{
+	border-radius: 0px !important;
+}
+
