@@ -1,5 +1,5 @@
 # summaryjs
-A text rank based client side JavaScript summarizer library. This a port of this [python script](https://gist.github.com/shlomibabluki/5473521) to javascript. The "test rank" algorithm used in this library is well explained 
+A "text rank" based client side JavaScript summarizer library. This a port of this [python script](https://gist.github.com/shlomibabluki/5473521) to javascript. The "text rank" algorithm used in this library is well explained 
 [here](https://thetokenizer.com/2013/04/28/build-your-own-summary-tool/). It is a naive summarizer algorithm and works fine in long well formatted and paragraphed texts.
 
 ## usage
